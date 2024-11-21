@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nimshi
+- 👋 Hi, I’m Nimshasri
 - 👀 I’m interested in Networkings
 - 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on digital security, data privacy, threat intelligence, and secure coding
